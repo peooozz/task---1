@@ -1,0 +1,4 @@
+{
+  "git.autosync.enable": true,
+  "git.autosync.interval": 60
+}
