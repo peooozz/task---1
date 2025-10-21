@@ -1,1 +1,3 @@
-hello this is a project
+git add .
+git commit -m "your message"
+git push origin master
